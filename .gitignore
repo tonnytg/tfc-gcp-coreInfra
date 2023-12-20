@@ -1,0 +1,9 @@
+.terraform
+.terraform.lock.hcl
+*lock*
+~*
+*.tfvars
+.env
+key*json
+credentials.json
+credentials.tfrc.json
